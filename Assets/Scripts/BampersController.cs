@@ -12,6 +12,4 @@ public class BampersController : MonoBehaviour {
 	void Update () {
 		transform.Rotate (30 * Time.deltaTime, 45 * Time.deltaTime, 0);
 	}
-
 }
-
