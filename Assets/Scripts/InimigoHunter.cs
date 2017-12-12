@@ -21,4 +21,5 @@ public class InimigoHunter : MonoBehaviour {
 			agent.destination = player.transform.position;
 		}
 	}
+
 }
